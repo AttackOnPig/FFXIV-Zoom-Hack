@@ -1,3 +1,6 @@
+# FF14视距缩放插件
+偏移量修正版
+
 # FFXIV-Zoom-Hack
 Allow adjustment of camera zoom and field of vision beyond what the game normally allows.
 
